@@ -1,0 +1,39 @@
+.heading
+{
+    text-align: left;
+    width: 100%;
+}
+
+.heading h3
+{
+    display: inline;
+}
+
+.heading button
+{
+    border: 1px soild white;
+    float: right;  
+}
+
+#start, #status, #restart
+{
+    font-size: 22px;
+}
+
+h4
+{
+    line-height: 2;
+    margin: 0px;
+}
+
+.model_dialog
+{
+    width: 90%;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px darkblue;
+    border-radius: 10px;
+    margin-top: 30px;
+}
